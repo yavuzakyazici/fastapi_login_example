@@ -446,3 +446,17 @@ class TokenData(BaseModel):
 ```
 
 Please give stars if it helps you
+
+Here are some swagger screenshots to show it works.
+
+<img width="403" alt="Screenshot 2024-03-01 at 21 48 39" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/4434496b-beb3-4d12-94e1-6ebabcdd8f4f">
+<img width="1325" alt="Screenshot 2024-03-01 at 21 46 20" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/e66a3d29-2a14-4a32-b58d-f43356dd8d27">
+<img width="653" alt="Screenshot 2024-03-01 at 21 46 06" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/94f226ce-434e-4ee1-93e7-bd117c9da48c">
+<img width="1311" alt="Screenshot 2024-03-01 at 21 45 40" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/d927dcb9-3e5a-417a-a0be-92a2933afc36">
+<img width="643" alt="Screenshot 2024-03-01 at 21 45 24" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/24bdbe78-8e51-41b8-8ca2-fdac31e958f4">
+<img width="755" alt="Screenshot 2024-03-01 at 21 44 49" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/e67dccdb-d0ad-4b69-8d3f-0473ecff0864">
+<img width="632" alt="Screenshot 2024-03-01 at 21 44 37" src="https://github.com/yavuzakyazici/fastapi_login_example/assets/148442912/1b9dc1a6-713b-41a0-960d-0238b2087013">
+
+
+
+
