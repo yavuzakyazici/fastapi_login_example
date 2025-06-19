@@ -83,7 +83,7 @@ POST /refresh
 ```
 
 📁 Part of Developer Portfolio
-This project is one of several focused FastAPI examples by [Yavuz Akyazıcı](https://github.com/yavuzakyazici), creator of JAM – Jazz A Minute app [iOS](https://apps.apple.com/app/j-a-m/id6504705021) and [Android](https://play.google.com/store/apps/details?id=com.jazzaminute).
+This project is one of several focused FastAPI examples by [Yavuz Akyazıcı](https://github.com/yavuzakyazici), creator of JAM – Jazz A Minute app [iOS](https://apps.apple.com/app/j-a-m/id6504705021) & [Android](https://play.google.com/store/apps/details?id=com.jazzaminute).
 
 For a more complete backend demo with admin panel, analytics, and cloud storage, contact directly.
 
