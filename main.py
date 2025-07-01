@@ -10,4 +10,3 @@ Base.metadata.create_all(bind=engine)
 @app.get("/")
 async def root():
     return {"message": "Please login to use API"}
-
